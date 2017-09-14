@@ -6,4 +6,4 @@ management:
   security:
     enabled: false
 
-studentUrl: http://localhost:8081/student
+studentUrl: https://student-service-n.cfapps.io/student
